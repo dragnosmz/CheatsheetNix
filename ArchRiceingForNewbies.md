@@ -11,7 +11,7 @@ cd .yay && makepkg -si
 yay -S google-chrome latte-dock spotify discord visual-studio-code-bin docker docker-compose zsh
 ```
 
-if spotify installation fail
+if spotify installation fail!
 ```
 gpg --keyserver pool.sks-keyservers.net --recv-keys <key>
 ```
