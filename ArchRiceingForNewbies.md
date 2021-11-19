@@ -1,6 +1,6 @@
 # Configure yay
 ```
-git clone https://aur.archlinux.org/yay.git .yay
+git clone https://aur.archlinux.org/yay.git .ya
 ```
 ```
 cd .yay && makepkg -si
