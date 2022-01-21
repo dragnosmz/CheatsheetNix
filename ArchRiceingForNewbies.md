@@ -202,21 +202,11 @@ ssh-keygen -t ed25519 -C "<e-mail>"
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
-
-# Bluetooth
-```
-yay -S bluez bluez-utils
-```
-```
-bluetoothctl
-```
-```
 trust <devide_address>
 ```
 ```
 nano /etc/bluetooth/main.conf
 ```
 ```
-[Policy]
 AutoEnable=true
 ```
