@@ -202,3 +202,8 @@ ssh-keygen -t ed25519 -C "<e-mail>"
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
+# Change gamma of a specific monitor temporarily
+```
+sudo pacman -Sy xorg-xrandr
+xrandr --current --output VGA-1 --gamma 2.5:2.5:2.5
+```
