@@ -2,4 +2,4 @@
 Basic Arch Linux Customization and Fixes.
 
 
-### https://github.com/dragnosmz/NixCheatsheet/blob/main/NixCheatsheet.md
+### https://github.com/overlwind/NixCheatsheet/blob/main/NixCheatsheet.md
